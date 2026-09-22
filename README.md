@@ -57,7 +57,8 @@ if __name__ == '__main__':
 ```
 
 
-![[Pasted image 20260915090217.png]]
+<img width="1187" height="428" alt="image" src="https://github.com/user-attachments/assets/9df228d9-3c19-4c37-8de0-c56c21c39058" />
+
 Рисунок 1 - Работа сервера
 
 ![[Pasted image 20260915090508.png|360]]
