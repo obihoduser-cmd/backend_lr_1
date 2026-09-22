@@ -58,20 +58,18 @@ if __name__ == '__main__':
 
 
 <img width="1187" height="428" alt="image" src="https://github.com/user-attachments/assets/9df228d9-3c19-4c37-8de0-c56c21c39058" />
-
 Рисунок 1 - Работа сервера
 
-![[Pasted image 20260915090508.png|360]]
+<img width="416" height="148" alt="image" src="https://github.com/user-attachments/assets/6f33de69-a5cb-440a-a491-444b08078d7c" />
 Рисунок 2 - Работа текстового эндпоинта
 
-![[Pasted image 20260915090547.png|374]]
+<img width="449" height="258" alt="image" src="https://github.com/user-attachments/assets/1ddc7f49-c4bb-4ec9-ae03-3329f8fe64f5" />
 Рисунок 3 - Работа первого json эндпоинта
 
-![[Pasted image 20260915090605.png|385]]
+<img width="463" height="228" alt="image" src="https://github.com/user-attachments/assets/86017c34-3658-4b0a-b863-faf4d177d920" />
 Рисунок 4 - Работа второго json эндпоинта
 
-
-![[Pasted image 20260915090800.png|556]]\
+<img width="1024" height="276" alt="image" src="https://github.com/user-attachments/assets/a653dcaf-748a-47bf-bd3e-16ef72397109" />
 Рисунок 5 -- Работа json эндпоинта с параметрами
 
 
@@ -144,23 +142,19 @@ if __name__ == '__main__':
 ```
 
 
-![[Pasted image 20260915091227.png]]
+<img width="1384" height="252" alt="image" src="https://github.com/user-attachments/assets/7dc37465-c9e7-4b8a-bb18-c834b6facd3c" />
 Рисунок 6 - Вывод текстового эндпоинта
 
-
-![[Pasted image 20260915091255.png|329]]
+<img width="641" height="943" alt="image" src="https://github.com/user-attachments/assets/70423ece-92f1-4cfe-988d-2d025344e12a" />
 Рисунок 7 - Вывод первого json эндпоинта
 
-
-![[Pasted image 20260915091324.png|332]]
+<img width="829" height="431" alt="image" src="https://github.com/user-attachments/assets/d4909324-68f9-4b59-be13-5e396ccac31c" />
 Рисунок 8 - Вывод второго json эндпоинта
 
-
-![[Pasted image 20260915091344.png|481]]
+<img width="1669" height="497" alt="image" src="https://github.com/user-attachments/assets/e948a016-d901-48ff-b040-882050c7c354" />
 Рисунок 9 - Вывод json эндпоинта с параметрами
 
-
-![[Pasted image 20260915091406.png|473]]
+<img width="1344" height="346" alt="image" src="https://github.com/user-attachments/assets/7b13c03c-52b7-436c-9df2-ff3cec53ccce" />
 Рисунок 10 - Вывод обработчика 404
 
 
